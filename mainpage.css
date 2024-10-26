@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    #obox{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(food6.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 600px;
+}
+#navbox{
+    border: solid 1px white;
+    height: 60px;
+}
+ul li{
+    border: solid 1px white;
+    height: 50px;
+    width: 168px;
+    float: left;
+    background-color: palevioletred;
+    border-radius: ;
+    text-align: center;
+    line-height: 5opx;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+color: white;
+font-size: 20px;
+text-decoration: none;
+font-weight: bold;
+}
+ul li:hover{
+    background-color: aqua;
+}
+#out{
+    border: solid 1px white;
+    height: 600px;
+}
+#scrolltext{
+   color: black;
+    font-size: 20px;
+    text-shadow:1px 1px red;
+}
+#welcome{
+    color: blueviolet;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 4px 4px wheat;
+}
+.menubox{
+    border: solid 1px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+#menu{
+    border: solid 1px;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}

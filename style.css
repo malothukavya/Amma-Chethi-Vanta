@@ -1,0 +1,41 @@
+#box{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(food3.jpg);
+    background-repeat: no-repeat;
+    background-size:1400px 600px ;
+}
+#amma{
+    text-align: center;
+    padding-left: 500px;
+   padding-top: 200px;
+    font-size: 60px;
+    color: white;
+}
+#register{
+    margin-left: 850px;
+}
+#register,#login{
+    height: 40px;
+    width: 100px;
+    background-color: goldenrod;
+    font-size: 15px;
+}
+#register a{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+#login a{
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+#register:hover{
+    background-color: palevioletred;
+}
+#login:hover{
+    background-color: palevioletred;
+} 
+}
+
